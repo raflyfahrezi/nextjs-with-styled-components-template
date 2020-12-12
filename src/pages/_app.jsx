@@ -5,7 +5,7 @@ import GlobalStyles from '../styles/globalStyles'
 const MyApp = ({ Component, pageProps }) => {
     return (
         <Fragment>
-            <GlobalStyles/>
+            <GlobalStyles />
             <Component {...pageProps} />
         </Fragment>
     )
