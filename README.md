@@ -2,11 +2,15 @@ This is a [Next.js](https://nextjs.org/) and [Styled Components](https://styled-
 
 ## Getting Started
 
-First, run the development server:
+Installing all dependencies :
 
 ```bash
-npm run dev
-# or
+yarn add next@latest react@latest react-dom@latest styled-components@latest
+```
+
+Run the development server:
+
+```bash
 yarn dev
 ```
 
