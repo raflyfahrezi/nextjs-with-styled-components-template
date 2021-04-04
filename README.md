@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) and [Styled Components](https://styled-
 
 ## Getting Started
 
+Please noted that i'am using yarn for this project.
+
 Installing all dependencies :
 
 ```bash
